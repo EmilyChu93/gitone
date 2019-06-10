@@ -1,0 +1,2 @@
+# gitone
+Initialize a repository.
